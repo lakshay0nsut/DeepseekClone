@@ -26,10 +26,10 @@ A Node.js backend API that integrates with **DeepSeek's AI models** via GitHub's
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/deepseek-chat-api.git
+git clone https://github.dev/lakshay0nsut/DeepseekClone.git
 
 # 2. Navigate into the project
-cd deepseek-chat-api
+cd DeepseekClone
 
 # 3. Install dependencies
 npm install
