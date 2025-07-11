@@ -39,7 +39,7 @@ The React + Tailwind CSS frontend offers a clean, responsive UI for interacting 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.dev/lakshay0nsut/DeepseekClone.git
+https://github.com/lakshay0nsut/DeepseekClone.git
 
 # 2. Navigate into the project
 cd DeepseekClone
