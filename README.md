@@ -38,10 +38,10 @@ npm install
 ## 📸 Screenshots
 
 ### 🔹 LOG IN
-![LogIn](screenshots/login.png)
+![LogIn](images/login.png)
 
 ### 🔹 PROMPT
-![Prompt](screenshots/prompt.png)
+![Prompt](images/prompt.png)
 
 ### 🔹 API Response
 ![LogIn](screenshots/api.png)
@@ -51,6 +51,7 @@ npm install
 
 
 🙌 Credits
+
 DeepSeek – AI models
 
 Azure AI Inference – Hosting infrastructure
